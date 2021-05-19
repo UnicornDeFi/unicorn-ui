@@ -120,14 +120,14 @@ export const socials = [
     items: [
       {
         label: "Discussion",
-        href: "https://t.me/squirtlefinance/",
+        href: "https://t.me/Salmon_Swap",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/SquirtleFinance/",
+    href: "https://twitter.com/SalmonSwapper",
   },
 ];
 
